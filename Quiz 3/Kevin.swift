@@ -55,6 +55,9 @@ struct ContentView: View {
                                     .padding()
                                     .background(Color.blue)
                                     .foregroundColor(.white)
+                                    .foregroundColor(.white)
+                                    .foregroundColor(.white)
+                                    .foregroundColor(.white)
                                     .cornerRadius(10)
                             }
                             .padding()
@@ -165,5 +168,3 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
-

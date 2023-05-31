@@ -8,17 +8,21 @@
 
 /* Begin PBXBuildFile section */
 		D92DE7B72A2715AE00B2FC36 /* Quiz_3App.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7B62A2715AE00B2FC36 /* Quiz_3App.swift */; };
-		D92DE7B92A2715AE00B2FC36 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7B82A2715AE00B2FC36 /* ContentView.swift */; };
+		D92DE7B92A2715AE00B2FC36 /* Kevin.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7B82A2715AE00B2FC36 /* Kevin.swift */; };
 		D92DE7BB2A2715AF00B2FC36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D92DE7BA2A2715AF00B2FC36 /* Assets.xcassets */; };
 		D92DE7BE2A2715AF00B2FC36 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D92DE7BD2A2715AF00B2FC36 /* Preview Assets.xcassets */; };
+		D92DE7CB2A2716C900B2FC36 /* Venkatesh.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7CA2A2716C900B2FC36 /* Venkatesh.swift */; };
+		D92DE7CD2A2716D100B2FC36 /* Shlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7CC2A2716D100B2FC36 /* Shlock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		D92DE7B32A2715AE00B2FC36 /* Quiz 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D92DE7B62A2715AE00B2FC36 /* Quiz_3App.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Quiz_3App.swift; sourceTree = "<group>"; };
-		D92DE7B82A2715AE00B2FC36 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		D92DE7B82A2715AE00B2FC36 /* Kevin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kevin.swift; sourceTree = "<group>"; };
 		D92DE7BA2A2715AF00B2FC36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D92DE7BD2A2715AF00B2FC36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		D92DE7CA2A2716C900B2FC36 /* Venkatesh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Venkatesh.swift; sourceTree = "<group>"; };
+		D92DE7CC2A2716D100B2FC36 /* Shlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shlock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +56,9 @@
 			isa = PBXGroup;
 			children = (
 				D92DE7B62A2715AE00B2FC36 /* Quiz_3App.swift */,
-				D92DE7B82A2715AE00B2FC36 /* ContentView.swift */,
+				D92DE7B82A2715AE00B2FC36 /* Kevin.swift */,
+				D92DE7CA2A2716C900B2FC36 /* Venkatesh.swift */,
+				D92DE7CC2A2716D100B2FC36 /* Shlock.swift */,
 				D92DE7BA2A2715AF00B2FC36 /* Assets.xcassets */,
 				D92DE7BC2A2715AF00B2FC36 /* Preview Content */,
 			);
@@ -137,8 +143,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D92DE7B92A2715AE00B2FC36 /* ContentView.swift in Sources */,
+				D92DE7B92A2715AE00B2FC36 /* Kevin.swift in Sources */,
+				D92DE7CB2A2716C900B2FC36 /* Venkatesh.swift in Sources */,
 				D92DE7B72A2715AE00B2FC36 /* Quiz_3App.swift in Sources */,
+				D92DE7CD2A2716D100B2FC36 /* Shlock.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
