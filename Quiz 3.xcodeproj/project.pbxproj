@@ -7,20 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		C895B0072A2726B60079F69C /* Shlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = C895B0062A2726B60079F69C /* Shlock.swift */; };
 		D92DE7B92A2715AE00B2FC36 /* Kevin.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7B82A2715AE00B2FC36 /* Kevin.swift */; };
 		D92DE7BB2A2715AF00B2FC36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D92DE7BA2A2715AF00B2FC36 /* Assets.xcassets */; };
 		D92DE7BE2A2715AF00B2FC36 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D92DE7BD2A2715AF00B2FC36 /* Preview Assets.xcassets */; };
 		D92DE7CB2A2716C900B2FC36 /* Venkatesh.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7CA2A2716C900B2FC36 /* Venkatesh.swift */; };
-		D92DE7CD2A2716D100B2FC36 /* Shlock.swift in Sources */ = {isa = PBXBuildFile; fileRef = D92DE7CC2A2716D100B2FC36 /* Shlock.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		C895B0062A2726B60079F69C /* Shlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shlock.swift; sourceTree = "<group>"; };
 		D92DE7B32A2715AE00B2FC36 /* Quiz 3.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Quiz 3.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		D92DE7B82A2715AE00B2FC36 /* Kevin.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Kevin.swift; sourceTree = "<group>"; };
 		D92DE7BA2A2715AF00B2FC36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D92DE7BD2A2715AF00B2FC36 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D92DE7CA2A2716C900B2FC36 /* Venkatesh.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Venkatesh.swift; sourceTree = "<group>"; };
-		D92DE7CC2A2716D100B2FC36 /* Shlock.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Shlock.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,7 +55,7 @@
 			children = (
 				D92DE7B82A2715AE00B2FC36 /* Kevin.swift */,
 				D92DE7CA2A2716C900B2FC36 /* Venkatesh.swift */,
-				D92DE7CC2A2716D100B2FC36 /* Shlock.swift */,
+				C895B0062A2726B60079F69C /* Shlock.swift */,
 				D92DE7BA2A2715AF00B2FC36 /* Assets.xcassets */,
 				D92DE7BC2A2715AF00B2FC36 /* Preview Content */,
 			);
@@ -142,7 +142,7 @@
 			files = (
 				D92DE7B92A2715AE00B2FC36 /* Kevin.swift in Sources */,
 				D92DE7CB2A2716C900B2FC36 /* Venkatesh.swift in Sources */,
-				D92DE7CD2A2716D100B2FC36 /* Shlock.swift in Sources */,
+				C895B0072A2726B60079F69C /* Shlock.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

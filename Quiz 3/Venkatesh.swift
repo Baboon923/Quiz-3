@@ -12,7 +12,11 @@ struct Venkatesh: View {
         VStack{
             Text("Venkatesh")
                 .font(.title)
-            Text("")
+            Text("The Venkatesh is an omnivorous species from the planet Earth.")
+            Text("""
+Description:
+
+""")
         }
     }
 }
