@@ -16,7 +16,7 @@ let questions = [
         Question(text: "QUESTION NUMBER???", answers: ["7", "5", "9", "69420"], correctAnswer: 0),
         Question(text: "_____ SWIFT", answers: ["YJ", "YOU", "TAYLOR", "ACCELERATOR"], correctAnswer: 2),
         Question(text: "SHLOK IS COMING", answers: ["AAAAAAAA", "HIDE", "DIVE", "OH ####"], correctAnswer: 0),
-        Question(text: "Is Shlok playing roblox again", answers: ["no", "What", "...yes", "wdym?"], correctAnswer: 2)
+        Question(text: "Is Shlok playing roblox again?", answers: ["no", "What", "...yes", "wdym?"], correctAnswer: 2)
 ]
 
 struct ContentView: View {
