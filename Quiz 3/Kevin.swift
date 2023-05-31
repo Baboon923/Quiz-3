@@ -7,14 +7,15 @@ struct Question {
 }
 
 let questions = [
-    Question(text: "What is the capital of France?", answers: ["London", "Paris", "Rome", "Berlin"], correctAnswer: 1),
+        Question(text: "What is the capital of France?", answers: ["London", "Paris", "Rome", "Berlin"], correctAnswer: 1),
         Question(text: "What is the largest planet in our solar system?", answers: ["Earth", "Mars", "Jupiter", "Saturn"], correctAnswer: 2),
         Question(text: "What is the symbol for potassium?", answers: ["Po", "K", "Pt", "Cu"], correctAnswer: 1),
         Question(text: "THINK FAST", answers: ["Wait wha-", "WTF", "Yes am speed", "YJ HELP MEEE"], correctAnswer: 2),
         Question(text: "Deal?", answers: ["Deal", "SEAL", "No", "Cupid anyone?"], correctAnswer: 1),
         Question(text: "FASTER", answers: ["FASTER", "FASTER", "FASTER", "FASTERER"], correctAnswer: 3),
         Question(text: "QUESTION NUMBER???", answers: ["7", "5", "9", "69420"], correctAnswer: 0),
-        Question(text: "_____ SWIFT", answers: ["YJ", "YOU", "TAYLOR", "ACCELERATOR"], correctAnswer: 2)
+        Question(text: "_____ SWIFT", answers: ["YJ", "YOU", "TAYLOR", "ACCELERATOR"], correctAnswer: 2),
+        Question(text: "SHLOK IS COMING", answers: ["AAAAAAAA", "HIDE", "DIVE", "OH ####"], correctAnswer: 0)
 ]
 
 struct ContentView: View {
