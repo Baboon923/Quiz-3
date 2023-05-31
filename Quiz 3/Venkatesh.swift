@@ -12,13 +12,18 @@ struct Venkatesh: View {
         VStack{
             Text("Venkatesh")
                 .font(.title)
-            Text("The Venkatesh is an omnivorous species from the planet Earth.")
+            Image("ScratchProfilePic").resizable()
+            
+            Text("The Venkatesh, also known as Vensah on Earth's cyberspace, is an omnivorous species from the planet Earth.")
+                .padding(.vertical)
             Text("""
 Description:
+Height: 1.575m
+Mass: 33.5
 
-
+Often referred to as a short human.
 """)
-        }
+        }.padding()
     }
 }
 

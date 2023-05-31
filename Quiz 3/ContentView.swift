@@ -5,16 +5,16 @@ struct ContentView: View {
         TabView{
             Kevin()
                 .tabItem {
-                    Label("Menu", systemImage: "list.dash")
+                    Label("Kevin", systemImage: "list.dash")
                 }
             
             Venkatesh()
                 .tabItem {
-                    Label("Order", systemImage: "square.and.pencil")
+                    Label("Venkatesh", systemImage: "square.and.pencil")
                 }
             Shlock()
                 .tabItem {
-                    Label("Order", systemImage: "highlighter")
+                    Label("Shlock", systemImage: "highlighter")
                 }
         }
     }
