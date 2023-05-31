@@ -10,7 +10,8 @@ import SwiftUI
 struct Venkatesh: View {
     var body: some View {
         VStack{
-            Text("hi")
+            Text("Descrip")
+            
             Button{
                 print("he touched me")
             } label:{
