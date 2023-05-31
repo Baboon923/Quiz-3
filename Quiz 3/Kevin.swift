@@ -2,4 +2,13 @@ import SwiftUI
 struct Kevin: View {
     var body: some View {
         VStack{
-print("Sup am Kevin")
+            Text("Sup am Kevin")
+            Button{
+                print("Baboon")
+            }label:{
+                Text("Commonly known as...")
+            }
+        }
+    }
+}
+
